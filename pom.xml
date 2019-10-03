@@ -42,7 +42,7 @@
       </plugin>
     </plugins>
   </build>
-  <deploy>
+ 
   <distributionManagement>
     <repository>
       <id>internal.repo</id>
@@ -50,5 +50,5 @@
       <url>https://github.com/Chhaya22/Test</url>
     </repository>
   </distributionManagement>
-  </deploy>
+
 </project>
