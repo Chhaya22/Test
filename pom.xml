@@ -40,13 +40,7 @@
           </archive>
         </configuration>
       </plugin>
-	<distributionManagement>
-    <repository>
-      <id>internal.repo</id>
-      <name>MyCo Internal Repository</name>
-      <url>https://github.com/Chhaya22/Test</url>
-    </repository>
-  </distributionManagement>
+	
     </plugins>
   </build>
  
