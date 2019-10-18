@@ -48,7 +48,7 @@
     <repository>
       <id>internal.repo</id>
       <name>MyCo Internal Repository</name>
-      <url>https://github.com/Chhaya22/HelloWorld/tree/master/bin/com/chhaya/core/</url>
+      <url>https://github.com/Chhaya22/Test.git</url>
     </repository>
   </distributionManagement>
 
