@@ -40,18 +40,7 @@
           </archive>
         </configuration>
       </plugin>
-	<plugin>
-    <groupId>com.jakewharton</groupId>
-    <artifactId>github-deploy-maven-plugin</artifactId>
-    <version>1.0.0</version>
-    <execution>
-        <execution>
-            <goals>
-                <goal>deploy</goal>
-            </goal>
-        </execution>
-    </execution>
-</plugin>
+	
     </plugins>
   </build>
  
